@@ -24,11 +24,12 @@ The file athlete_events.csv contains 271116 rows and 15 columns. Each row corres
 + Games - Year and season
 + Year - Integer
 + Season - Summer or Winter
-
-DataSet Link - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 + City - Host city
 + Sport - Sport
 + Event - Event
 + Medal - Gold, Silver, Bronze, or NA
+
+
+DataSet Link - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
   
